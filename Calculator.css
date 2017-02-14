@@ -1,0 +1,69 @@
+﻿body {
+    background-color: #dfdfdf;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 40px;
+    border: 2px solid black;
+}
+
+h2 {
+    background-color: #cc0000;
+    font-family: Georgia, serif;
+    color: white;
+    text-align: center;
+    border-left: thin;
+
+}
+
+h4 {
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+p {
+    background-color: #cc0000;
+    font-family: Georgia, serif;
+    color: white;
+    text-align: center;
+    border-left: thin;
+}
+
+.Calculate {
+    background-color: #cc0000;
+    color: white;
+    border: 2px solid #f44336;
+    border-radius: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.Calculate:hover {
+    background-color: white;
+    color: black;
+}
+
+.RadioB {
+        background-color: #cc0000;
+    color: white;
+    border: 2px solid #f44336;
+    border-radius: 2px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s
+}
+
+.RadioB:hover {
+    background-color: white;
+    color: black;
+}
